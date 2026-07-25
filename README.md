@@ -12,14 +12,9 @@ Built with **React + TypeScript** on the frontend, **Express.js REST API** on th
 
 https://ops-protal.vercel.app/
 
-## Backend API
-
-https://ops-protal-backend.onrender.com
-
-## API Health Check
+## Backend API (health check)
 
 https://ops-protal-backend.onrender.com/api/health
-
 ---
 
 # ✨ Key Features
